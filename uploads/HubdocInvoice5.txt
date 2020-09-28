@@ -1,0 +1,95 @@
+Invoice 1020
+
+March 18, 2019
+
+The Company
+Alan AB
+55 address
+london, ON
+
+Invoice Receipt
+This email confirms your recent payment of $118.65. Here are the details
+of your payment:
+Account
+
+Description
+
+Amount
+
+alan+abclient1@hubdoc.com
+
+Business client on wholesale
+pricing
+
+$25.00
+
+alan+abclient2@hubdoc.com
+
+Business client on wholesale
+pricing
+
+$25.00
+
+alan+abclient3@hubdoc.com
+
+Business client on wholesale
+pricing
+
+$25.00
+
+alan+abclient4@hubdoc.com
+
+Business client on wholesale
+pricing
+
+$25.00
+
+alan+abclient5@hubdoc.com
+
+Business client on 2019
+partner promotion
+
+$12.50
+
+alan+abclient6@hubdoc.com
+
+Business client on 2019
+partner promotion
+
+$12.50
+
+Subtotal
+
+$125.00
+
+Hubdoc Partner Discount
+(20% off)
+
+-20.00
+
+GST 13%
+
+$13.65
+
+Total
+
+$118.65
+
+Paid
+
+-$118.65
+
+Total Due
+
+$0.00
+CAD
+
+Thank you for your business. Your next invoice date is April 18, 2019.
+
+HST/GST # 813417409
+This message was sent to alan+ab@hubdoc.com because you have a Hubdoc account.
+View your invoice on Hubdoc
+
+©2019 Hubdoc, Inc | All Rights Reserved | Privacy Policy | Terms of Service
+
+
